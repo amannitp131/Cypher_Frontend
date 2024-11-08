@@ -21,7 +21,7 @@ function Doctorregister() {
 
             <div className="inputBox">
               <input type="text" required />
-              <i>Age</i>
+              <i>specialization</i>
             </div>
 
             <div className="inputBox">
